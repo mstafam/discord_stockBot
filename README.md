@@ -5,11 +5,11 @@ You can add this bot to your server using this [link.](https://discord.com/api/o
 
 In case you want to run this program on your computer, you need to fulfill the following requirements:
 1. You must have a valid discord bot token, toggle on the required intents, and allow it permissions.
-2. You must have the following required libraries installed on your machine; you can install them using the commands: 
-'''
+2. You must have the following required libraries installed on your machine; you can install them using the commands:
+```
 pip install discord.py
 pip install yfinance
-'''
+```
 
 **License:**
 MIT License
